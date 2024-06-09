@@ -1,6 +1,58 @@
+body {
+    background-color: black; /* Color de fondo */
+    font-family: Arial; /* Fuente */
+    color: white; /* Color de la fuente */
+    font-size: 80px; /* Tamaño de la fuente */
+    letter-spacing: -5px; /* Espaciado entre letras */
+    -webkit-box-reflect: below -110% linear-gradient(transparent, rgba(0, 0, 0, 0.6)); /* Reflejo */
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
 
+.bienvenida {
+    position: absolute;
+    top: 0;
+    margin-top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+
+}
+
+.text_line {
+    position: relative;
+}
+
+.text_line span {
+    background: rgb(0, 0, 0);
+    margin-right: -10px;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    text-transform: uppercase;
+    animation: bounce 0.1s forwards, opacity 0.1s forwards;
+    animation-timing-function: ease, ease;
+    animation-delay: calc(0.1s * var(--i)), calc(0.1s * var(--i));
+    opacity: 0;
+}
+
+@keyframes bounce {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-20px); }
+}
+
+@keyframes opacity {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
 
 .image-container {
+    margin-top: 200px;
     display: flex;
     flex-direction: column;
     align-items: center; /* Alinea las imágenes en el centro horizontalmente */

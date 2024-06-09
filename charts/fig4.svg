@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2024-06-09T18:59:24.631765</dc:date>
+    <dc:date>2024-06-09T20:08:10.881463</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -256,7 +256,7 @@ z
    <g id="matplotlib.axis_2"/>
    <g id="text_1">
     <!-- Adrián - 21.22 % -->
-    <g transform="translate(58.846013 314.988626) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(58.846013 314.988626) scale(0.07 -0.07)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
 L 1331 1722 
@@ -509,7 +509,7 @@ z
    </g>
    <g id="text_2">
     <!-- Óscar - 17.04 % -->
-    <g transform="translate(280.801082 366.08238) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(280.801082 366.08238) scale(0.07 -0.07)">
      <defs>
       <path id="DejaVuSans-d3" d="M 2522 4238 
 Q 1834 4238 1429 3725 
@@ -693,7 +693,7 @@ z
    </g>
    <g id="text_3">
     <!-- Jules - 12.54 % -->
-    <g transform="translate(378.891936 272.352102) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(378.891936 272.352102) scale(0.07 -0.07)">
      <defs>
       <path id="DejaVuSans-4a" d="M 628 4666 
 L 1259 4666 
@@ -807,7 +807,7 @@ z
    </g>
    <g id="text_4">
     <!-- Sergio - 11.58 % -->
-    <g transform="translate(374.934263 160.459407) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(374.934263 160.459407) scale(0.07 -0.07)">
      <defs>
       <path id="DejaVuSans-53" d="M 3425 4513 
 L 3425 3897 
@@ -955,7 +955,7 @@ z
    </g>
    <g id="text_5">
     <!-- André - 10.61 % -->
-    <g transform="translate(303.508159 85.710373) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(303.508159 85.710373) scale(0.07 -0.07)">
      <defs>
       <path id="DejaVuSans-e9" d="M 3597 1894 
 L 3597 1613 
@@ -1038,7 +1038,7 @@ z
    </g>
    <g id="text_6">
     <!-- Matilde - 8.04 % -->
-    <g transform="translate(160.141809 71.205696) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(160.141809 71.205696) scale(0.07 -0.07)">
      <defs>
       <path id="DejaVuSans-4d" d="M 628 4666 
 L 1569 4666 
@@ -1098,7 +1098,7 @@ z
    </g>
    <g id="text_7">
     <!-- Aritz - 6.11 % -->
-    <g transform="translate(107.108545 93.993476) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(107.108545 93.993476) scale(0.07 -0.07)">
      <defs>
       <path id="DejaVuSans-7a" d="M 353 3500 
 L 3084 3500 
@@ -1132,7 +1132,7 @@ z
    </g>
    <g id="text_8">
     <!-- Andrea - 4.82 % -->
-    <g transform="translate(60.032735 128.972408) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(60.032735 128.972408) scale(0.07 -0.07)">
      <use xlink:href="#DejaVuSans-41"/>
      <use xlink:href="#DejaVuSans-6e" x="68.408203"/>
      <use xlink:href="#DejaVuSans-64" x="131.787109"/>
@@ -1152,7 +1152,7 @@ z
    </g>
    <g id="text_9">
     <!-- África - 2.57 % -->
-    <g transform="translate(47.003735 159.062664) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(47.003735 159.062664) scale(0.07 -0.07)">
      <defs>
       <path id="DejaVuSans-c1" d="M 2188 4044 
 L 1331 1722 
@@ -1217,7 +1217,7 @@ z
    </g>
    <g id="text_10">
     <!-- Mario - 2.25 % -->
-    <g transform="translate(39.703345 180.600342) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(39.703345 180.600342) scale(0.07 -0.07)">
      <use xlink:href="#DejaVuSans-4d"/>
      <use xlink:href="#DejaVuSans-61" x="86.279297"/>
      <use xlink:href="#DejaVuSans-72" x="147.558594"/>
@@ -1236,7 +1236,7 @@ z
    </g>
    <g id="text_11">
     <!-- Meri - 1.61 % -->
-    <g transform="translate(40.107872 198.527775) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(40.107872 198.527775) scale(0.07 -0.07)">
      <use xlink:href="#DejaVuSans-4d"/>
      <use xlink:href="#DejaVuSans-65" x="86.279297"/>
      <use xlink:href="#DejaVuSans-72" x="147.802734"/>
@@ -1254,7 +1254,7 @@ z
    </g>
    <g id="text_12">
     <!-- Yassin - 0.96 % -->
-    <g transform="translate(32.644218 210.682184) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(32.644218 210.682184) scale(0.07 -0.07)">
      <defs>
       <path id="DejaVuSans-59" d="M -13 4666 
 L 666 4666 
@@ -1318,7 +1318,7 @@ z
    </g>
    <g id="text_13">
     <!-- Haizea - 0.64 % -->
-    <g transform="translate(29.804165 218.3192) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(29.804165 218.3192) scale(0.07 -0.07)">
      <defs>
       <path id="DejaVuSans-48" d="M 628 4666 
 L 1259 4666 
@@ -1355,7 +1355,7 @@ z
    </g>
    <g id="text_14">
     <!-- Adriana - 0.00 % -->
-    <g transform="translate(26.594835 221.377283) scale(0.07 -0.07)">
+    <g style="fill: #ffffff" transform="translate(26.594835 221.377283) scale(0.07 -0.07)">
      <use xlink:href="#DejaVuSans-41"/>
      <use xlink:href="#DejaVuSans-64" x="66.658203"/>
      <use xlink:href="#DejaVuSans-72" x="130.134766"/>
@@ -1816,7 +1816,7 @@ z
   </g>
   <g id="text_30">
    <!-- ¿Quién ha enviado más links? ($Total= 311$) -->
-   <g transform="translate(194.1 18.144375) scale(0.12 -0.12)">
+   <g style="fill: #ffffff" transform="translate(194.1 18.144375) scale(0.12 -0.12)">
     <defs>
      <path id="DejaVuSans-bf" d="M 1563 2247 
 L 2156 2247 
