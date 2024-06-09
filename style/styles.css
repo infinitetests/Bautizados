@@ -207,16 +207,20 @@ body{
     /* Estilos específicos para dispositivos con un ancho máximo de 768px */
     #container {
         width: 60vw; /* Cambia el ancho del contenedor para dispositivos más pequeños */
-        margin: 0 auto; /* Centra el contenedor horizontalmente */
+        margin: 15vw; /* Ajusta el margen */
+        display: flex; /* Utiliza flexbox */
+        flex-direction: column; /* Direcciona los elementos verticalmente */
+        align-items: center; /* Centra los elementos horizontalmente */
+        justify-content: center; /* Centra los elementos verticalmente */
+        height: 100vh; /* Ajusta la altura del contenedor al 100% de la ventana */
     }
-    div {
+    div{
         margin-top: 15px;
     }
     h1 {
         font-size: 3.5em; /* Reduce el tamaño del título */
         letter-spacing: 4px; /* Reduce el espaciado de letras */
     }
-}
 }
 .image-container {
     margin-top: 200px;
