@@ -207,7 +207,9 @@ body{
     /* Estilos específicos para dispositivos con un ancho máximo de 768px */
     #container {
         width: 60vw; /* Cambia el ancho del contenedor para dispositivos más pequeños */
-        margin: 15vw; /* Ajusta el margen */
+        margin: 0 auto; /* Centra el contenedor horizontalmente */
+        padding: 0 15vw; /* Ajusta el relleno para mantener un margen dentro de la ventana */
+        box-sizing: border-box; /* Asegúrate de que el relleno se incluya en el ancho total */
         align-items: center; /* Centra los elementos horizontalmente */
         justify-content: center; /* Centra los elementos verticalmente */
 
