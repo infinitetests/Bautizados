@@ -207,15 +207,16 @@ body{
     /* Estilos específicos para dispositivos con un ancho máximo de 768px */
     #container {
         width: 60vw; /* Cambia el ancho del contenedor para dispositivos más pequeños */
-        margin: 15vw; /* Ajusta el margen */
+        margin: 0 auto; /* Centra el contenedor horizontalmente */
     }
-    div{
+    div {
         margin-top: 15px;
     }
     h1 {
         font-size: 3.5em; /* Reduce el tamaño del título */
         letter-spacing: 4px; /* Reduce el espaciado de letras */
     }
+}
 }
 .image-container {
     margin-top: 200px;
