@@ -203,6 +203,18 @@ body{
       opacity: 0.25;
     }
   }
+  @media screen and (max-width: 768px) {
+    /* Estilos específicos para dispositivos con un ancho máximo de 768px */
+    #container {
+        width: 90vw; /* Cambia el ancho del contenedor para dispositivos más pequeños */
+        margin: 5vw auto; /* Ajusta el margen */
+    }
+
+    h1 {
+        font-size: 3.5em; /* Reduce el tamaño del título */
+        letter-spacing: 4px; /* Reduce el espaciado de letras */
+    }
+}
 .image-container {
     margin-top: 200px;
     display: flex;
