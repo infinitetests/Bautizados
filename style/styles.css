@@ -206,11 +206,11 @@ body{
   @media screen and (max-width: 768px) {
     /* Estilos específicos para dispositivos con un ancho máximo de 768px */
     #container {
-        width: 70vw; /* Cambia el ancho del contenedor para dispositivos más pequeños */
-        margin: 10vw auto; /* Ajusta el margen */
+        width: 60vw; /* Cambia el ancho del contenedor para dispositivos más pequeños */
+        margin: 15vw; /* Ajusta el margen */
     }
     div{
-        margin-top: 10px;
+        margin-top: 15px;
     }
     h1 {
         font-size: 3.5em; /* Reduce el tamaño del título */
