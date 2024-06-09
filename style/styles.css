@@ -207,17 +207,15 @@ body{
     /* Estilos específicos para dispositivos con un ancho máximo de 768px */
     #container {
         width: 60vw; /* Cambia el ancho del contenedor para dispositivos más pequeños */
-        margin: 0 auto; /* Centra el contenedor horizontalmente */
-        padding: 0 15vw; /* Ajusta el relleno para mantener un margen dentro de la ventana */
-        box-sizing: border-box; /* Asegúrate de que el relleno se incluya en el ancho total */
-        align-items: center; /* Centra los elementos horizontalmente */
-        justify-content: center; /* Centra los elementos verticalmente */
+        margin-top: 20px;
+        margin: 50 auto; /* Centra el contenedor horizontalmente */
 
     }
     div{
-        margin-top: 15px;
+        margin-top: 30px;
     }
     h1 {
+        margin-top: 30px;
         font-size: 3.5em; /* Reduce el tamaño del título */
         letter-spacing: 4px; /* Reduce el espaciado de letras */
     }
